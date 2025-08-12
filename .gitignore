@@ -1,0 +1,8 @@
+# FAISS 
+faiss_store/
+
+# virtual env
+virtual_env/
+
+# pycache
+__pycache__/
