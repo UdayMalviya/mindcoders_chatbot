@@ -1,7 +1,7 @@
 from langchain_community.vectorstores import FAISS
 from langchain_google_genai import  ChatGoogleGenerativeAI
 
-from chat import embeddings
+from loader import embeddings
 
 
 # Load FAISS vector store
