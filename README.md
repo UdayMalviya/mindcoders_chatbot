@@ -39,6 +39,12 @@
    2. **LANGSMITH_API_KEY** = Your api key from the [website](https://smith.langchain.com/)
    3. **USER_AGENT**
    4. **LANGSMITH_TRACING** = The value must be set to **TRUE**
+   
+### To run fastapi app 
+
+```bash
+fastapi dev main.py
+```
 
 ---
 
